@@ -1,0 +1,25 @@
+﻿<Window x:Class="TiliToli.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TiliToli"
+        mc:Ignorable="d"
+        Title="TiliToli" Height="500" Width="360"
+        Name ="Jatek">
+    <Grid>
+        <Button Content="1" Name="Button1" HorizontalAlignment="Left" Margin="15,70,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="2" Name="Button2" HorizontalAlignment="Left" Margin="130,70,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="3" x:Name="Button3" HorizontalAlignment="Left" Margin="245,70,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="4" x:Name="Button4" HorizontalAlignment="Left" Margin="15,185,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="5" x:Name="Button5" HorizontalAlignment="Left" Margin="130,185,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="6" x:Name="Button6" HorizontalAlignment="Left" Margin="245,185,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="7" x:Name="Button7" HorizontalAlignment="Left" Margin="15,300,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="8" x:Name="Button8" HorizontalAlignment="Left" Margin="130,300,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="0" x:Name="Button0" Visibility="Hidden" HorizontalAlignment="Left" Margin="245,300,0,0" VerticalAlignment="Top" Width="100" Click="Button1_Click" Height="100"/>
+        <Button Content="New Game" HorizontalAlignment="Left" Height="26" Margin="82,419,0,0" VerticalAlignment="Top" Width="193" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="15,10,0,0" TextWrapping="Wrap" Text="Lépések:" VerticalAlignment="Top" Width="78"/>
+        <TextBox x:Name="steps" HorizontalAlignment="Left" Height="24" Margin="115,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="66" TextChanged="steps_TextChanged"/>
+
+    </Grid>
+</Window>

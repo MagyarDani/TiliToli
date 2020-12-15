@@ -1,0 +1,30 @@
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+E:\c#\TiliToli\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\App.g.cs
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+E:\c#\TiliToli\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\bin\Debug\TiliToli.exe.config
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\bin\Debug\TiliToli.exe
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\bin\Debug\TiliToli.pdb
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.csprojAssemblyReference.cache
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\MainWindow.g.cs
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\App.g.cs
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.cache
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli_MarkupCompile.lref
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\MainWindow.baml
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.g.resources
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.Properties.Resources.resources
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.GenerateResource.cache
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.csproj.CoreCompileInputs.cache
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.exe
+C:\Users\halox\OneDrive\Asztali gép\TiliToli_2020_12_03\TiliToli\TiliToli\obj\Debug\TiliToli.pdb
